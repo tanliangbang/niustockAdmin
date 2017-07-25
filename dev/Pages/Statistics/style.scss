@@ -1,0 +1,29 @@
+.Statistics{
+   padding-left:30px;
+   .timeBtn{
+       border:1px solid #000;
+       width:242px;
+       margin-left:10px;
+       margin-bottom:20px;
+       border-radius:5px;
+      a{
+        display:inline-block;
+        width:40px;
+        border-right:1px solid #000;
+        height:25px;
+        text-align: center;
+        line-height: 25px;
+        background:#F2F2F2;
+        cursor: pointer;
+      }
+     a:nth-child(1){
+       border-top-left-radius:5px;
+       border-bottom-left-radius:5px;
+     }
+      a:nth-child(6){
+        border-top-right-radius:5px;
+        border-bottom-right-radius:5px;
+        border-right:none;
+      }
+   }
+}

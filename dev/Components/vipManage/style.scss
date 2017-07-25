@@ -1,0 +1,87 @@
+.vipListtable{
+  width:100%;
+  border-collapse: collapse;
+  margin-top:3px;
+  th{
+    height:50px;
+    background:#ff6f03;
+    color:#FFFFFF;
+    font-size:12px;
+    text-align:center;
+  }
+  td{
+    padding:20px 0px;
+    text-align: center;
+  }
+  tbody{
+    tr{
+      cursor: pointer;
+    }
+    tr:nth-child(even){
+      background:#E4E4E4;
+    }
+  }
+}
+
+.productListTitle{
+  padding-left:20px;
+  margin-top:20px;
+  margin-bottom:10px;
+  font-size:18px;
+}
+
+
+
+.userAuth{
+     margin-left:150px;
+     .userInfoLine{
+       label{
+           display:inline-block;
+           width:120px;
+          line-height:50px;
+           text-align: right;
+           margin-right:20px;
+         }
+     }
+  .passBtn{
+     width:250px;
+    height:40px;
+    cursor: pointer;
+    line-height:40px;
+    text-align: center;
+    margin:50px auto;
+    background:#3366FF;
+    color:#fff;
+    font-size:16px;
+    border-radius: 5px;
+  }
+}
+
+.investState{
+
+   >div:nth-child(1){
+      >div{
+         width:180px;
+         height:120px;
+        float:left;
+        border:1px solid gray;
+        text-align: center;
+        margin-left:50px;
+
+        >p:nth-child(1){
+            font-size:30px;
+            margin-top:10px;
+        }
+        >p:nth-child(2){
+          margin-top:30px;
+        }
+      }
+   }
+
+  .investList{
+     >p{
+        font-size:18px;
+        margin:20px 0px;
+     }
+  }
+}

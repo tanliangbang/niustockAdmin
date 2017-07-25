@@ -1,0 +1,42 @@
+export const GET_PRODUCT_LIST = 'GET_PRODUCT_LIST';
+export const GET_PRODUCT_DETAIL = 'GET_PRODUCT_DETAIL';
+
+export const SET_REGIST_STATE = 'SET_REGIST_STATE';
+export const SET_MENU = 'SET_MENU';
+export const SET_USER_LIST = 'SET_USER_LIST';
+export const GET_USER_DETAIL = 'GET_USER_DETAIL';
+export const GET_USER_INVEST_LIST = 'GET_USER_INVEST_LIST';
+export const GET_PRODUCT_RECORD = 'GET_PRODUCT_RECORD';
+export const SET_USERINFO = 'SET_USERINFO';
+export const POWERLIST = 'POWERLIST';
+export const SET_MASK = 'SET_MASK';
+export const SHOWADDEMPLOYEE = 'SHOWADDEMPLOYEE';
+export const EMPLOYELIST = 'EMPLOYELIST';
+export const CURREMPLOYEE = 'CURREMPLOYEE';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

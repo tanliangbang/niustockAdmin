@@ -1,0 +1,149 @@
+@charset "UTF-8";
+@import "./var.scss";
+@import "./myAnimation.scss";
+/* -------------CSS 格式化------------ */
+body{
+    overflow-x:hidden;
+    position:absolute;
+    background-color: #fff;
+    width:100%;
+    height:100%;
+}
+
+
+
+/*小图标*/
+.ico{ display: inline-block; width: 30px; height: 30px; overflow: hidden; vertical-align: middle; background: url(../img/icons.png) no-repeat;}
+.ico-basic{ background-position: 0 0;}
+.ico-yed{ background-position: 0 -30px;}
+.ico-map{ background-position: 0 -60px;}
+.ico-kpi{ background-position: 0 -90px;}
+.ico-action{ background-position: 0 -120px;}
+.ico-recruit { background-position: 0 -150px;}
+.ico-bidding{ background-position: 0 -180px;}
+.ico-property{ background-position: 0 -210px;}
+
+.pageMg{ margin-top: 60px;}
+.contents{ padding: 20px;}
+.contents h1{ margin-left: 20px;}
+.contents p{ margin: 8px 0; color: #666;}
+
+
+
+.none{
+    display:none !important;
+}
+
+
+.t-align{
+    text-align: center;
+}
+
+.sexCls{
+    margin-top:25px;
+}
+
+.clear{
+    clear:both;
+}
+
+.fl{
+    float:left;
+}
+.fr{
+    float:right;
+}
+
+
+.bgColor{
+    background:#fff;
+}
+
+
+.maskCommonTop{
+    position:relative;
+    padding-top:30px;
+    margin-bottom:10px;
+    .close{
+        position: absolute;
+        width: 21px;
+        height: 20px;
+        right: 18px;
+        top: 18px;
+        cursor: pointer;
+        background: url("../img/ck_closebg.png") no-repeat 0 0;
+    }
+    .loginTitle{
+        color:#00a5eb;
+        float:left;
+        font-size:18px;
+        margin-left:10px;
+        margin-bottom:0px;
+    }
+    .loginNav{
+         padding:0px 20px;
+        a{
+            display:block;
+            width:50%;
+            text-align: center;
+            float:left;
+            line-height: 50px;
+            text-decoration: none;
+            cursor: pointer;
+            font-size:16px;
+        }
+        .active{
+            border-bottom:1px solid $commonMainColor;
+            color:$commonMainColor;
+            font-weight:bold ;
+        }
+        .nomal{
+            color:$commonFontColor;
+            border-bottom:1px solid #ddd;
+        }
+    }
+}
+
+.nomalInput{
+    font-size: 16px;
+    margin-bottom:20px;
+    input{
+        width: 280px;
+        height: 32px;
+        border: 1px solid #dcdcdc;
+        font-size:14px;
+        padding-left:10px;
+    }
+}
+
+.commonTop{
+        font-size:16px;
+        margin-bottom:10px;
+        margin-top:20px;
+}
+
+
+.commonTable{
+    width:100%;
+    border-collapse: collapse;
+    margin-top:3px;
+    th{
+        height:50px;
+        background:#ff6f03;
+        color:#FFFFFF;
+        font-size:12px;
+        text-align:center;
+    }
+    td{
+        padding:20px 0px;
+        text-align: center;
+    }
+    tbody{
+        tr{
+            cursor: pointer;
+        }
+        tr:nth-child(even){
+            background:#E4E4E4;
+        }
+    }
+}

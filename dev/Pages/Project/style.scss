@@ -1,0 +1,249 @@
+.product{
+  .filterSelect{
+    padding-top:20px;
+    margin-top:30px;
+    margin-bottom:30px;
+    border-top:2px dashed #BCBCBC;
+    border-bottom:2px dashed #BCBCBC;
+    >div:nth-child(1){
+      border-top:1px solid #D7D7D7;
+      border-bottom:1px solid #D7D7D7;
+      line-height:40px;
+      padding-left:30px;
+    }
+    >ul{
+      margin:20px 0px;
+      .selected{
+        background:red;
+      }
+      .noSelected{
+        background:gray;
+        cursor: pointer;
+      }
+      >li{
+        height:50px;
+        >div{
+          float:left;
+        }
+        >div:nth-child(1){
+          >span:nth-child(1){
+            width:100px;
+            display:block;
+            float:left;
+            text-align: right;
+            margin-right:30px;
+          }
+          >span:nth-child(2){
+            padding:5px 15px;
+            color:#fff;
+            font-size:12px;
+            border-radius:10px;
+            margin-right:50px;
+          }
+        }
+        .selfInput{
+          input{
+            width:50px;
+          }
+          i{
+            color:gray;
+            margin:0px 5px;
+          }
+          button{
+            background:#fff;
+            padding:3px 10px;
+            color:#000;
+            border:1px solid #d7d7d7;
+            border-radius:5px;
+            margin-left:10px;
+          }
+        }
+        >div:nth-child(2){
+          max-width:840px;
+          span{
+            color:blue;
+            margin-right:30px;
+            vertical-align: 2px;
+            >input{
+              margin-right:2px;
+            }
+          }
+        }
+      }
+    }
+  }
+
+}
+
+
+
+.myTabs-header{
+  border-bottom:1px solid gray;
+  margin-bottom:20px;
+  li{
+    width: 150px;
+    height: 35px;
+    line-height: 35px;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    background:  #fff;
+    padding: 0px;
+    border: 1px solid gray;
+    border-bottom:none;
+    cursor: pointer;
+    margin-left:5px;
+    a{
+      color: #000;
+    }
+  }
+
+  .mt-tabs-active{
+    border-bottom: none;
+    background:#eee;
+    height: 35px;
+    line-height: 35px;
+    border-bottom:1px solid #fff;
+    margin-bottom:-1px;
+  }
+
+}
+
+.myTabs-content{
+  background:#fff;
+}
+
+
+
+.projectDetail{
+  >div:nth-child(2){
+    margin-top:30px;
+  }
+  .detial{
+    padding-left:40px;
+    border-bottom:2px dashed #BCBCBC;
+    padding-bottom:30px;
+  }
+  .content{
+    margin-top: 30px;
+    margin-left:50px;
+  }
+  .pdetial{
+      margin-bottom:10px;
+      >div:nth-child(1){
+          width:150px;
+        font-size:16px;
+      }
+     >div{
+       display:inline-block;
+     }
+  }
+
+
+
+  .record{
+     padding-left:40px;
+     >div:nth-child(1){
+       font-size:18px;
+     }
+     table{
+          font-size:16px;
+          width:800px;
+          margin:20px 0px;
+          tr{
+            line-height:50px;
+          }
+        }
+  .brder{
+    border-bottom:2px dashed #BCBCBC;
+  }
+}
+
+}
+
+.addProject{
+  padding-top:50px;
+  padding-left:50px;
+  .title{
+    margin-left:100px;
+    margin-bottom:20px;
+    color:#dcdcdc;
+    hr{
+      display:inline-block;
+      border:none;
+      border-bottom:1px solid #dcdcdc;
+    }
+    hr:nth-child(1){
+      width:50px;
+    }
+    hr:nth-child(3){
+      width:100px;
+    }
+  }
+
+  .projectDetailEditor{
+    margin-left:130px;
+    margin-top:30px;
+    margin-bottom:50px;
+  }
+
+  .addFile{
+    a{
+      width:80px;
+      height:30px;
+      text-align: center;
+      line-height: 30px;
+      border-radius: 4px;
+      background:#ff6f03;
+      color:#fff;
+      margin-left:320px;
+      cursor: pointer;
+      display:block;
+    }
+  }
+  .nomalInput{
+    >span:nth-child(1){
+       font-size:16px;
+       width:200px;
+       text-align: right;
+       display:inline-block;
+    }
+    >input,textarea{
+       margin-left:20px;
+       width:300px;
+       font-size:14px;
+       margin-right:10px;
+    }
+    >textarea{
+      vertical-align: top;
+      width:400px;
+      height:300px;
+    }
+    .fileInput{
+      border:none;
+    }
+    select{
+      width:300px;
+      height:32px;
+      margin-left:20px;
+      border-bottom:1px solid #dcdcdc;
+    }
+    .reError{
+      display:inline-block;
+      margin-left:20px;
+      color:red;
+      font-size:12px;
+    }
+  }
+  .addProjectBtn{
+    width:200px;
+    height:40px;
+    line-height:40px;
+    color:#fff;
+    background:#ff6f03;
+    margin:50px 250px 50px;
+  }
+}
+

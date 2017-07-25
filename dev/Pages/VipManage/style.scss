@@ -1,0 +1,55 @@
+
+.vipIndex{
+    .vipUserInfo{
+        padding:10px 80px;
+        >div{
+            float:left;
+        }
+        >div:nth-child(1){
+            line-height:30px;
+        }
+        >div:nth-child(2){
+            line-height:20px;
+            margin-left:200px;
+        }
+        .resetPasswrod{
+            background:#3366FF;
+            width:130px;
+            height:40px;
+            text-align: center;
+            line-height: 40px;
+            color:#fff;
+            border-radius:6px;
+            margin-left:100px;
+            margin-top:30px;
+        }
+    }
+
+    .userInfoContent{
+        margin-top:20px;
+    }
+
+    .otherInfo{
+        table{
+            margin-top:10px;
+            width:900px;
+            tr{
+                line-height:30px;
+            }
+            tr:nth-child(even){
+                background:#E4E4E4;
+            }
+            a{
+                color:red;
+                margin-right:20px;
+            }
+        }
+    }
+
+
+}
+
+
+
+
+

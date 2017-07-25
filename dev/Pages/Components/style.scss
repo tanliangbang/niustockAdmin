@@ -1,0 +1,70 @@
+/*侧面菜单*/
+.leftmenu{ position: fixed;
+   z-index: 1000;
+   width:300px;
+   top: 80px;
+   left: 0;
+   bottom: 0;
+   background-color: rgb(50, 64, 87);
+   box-shadow:3px 0 8px rgba(39, 55, 71, 0.3);
+   .menu{
+      padding: 0;
+      background-color: #324157;
+   }
+   a{
+      color: #bfcbd9;
+      font-size: 14px;
+      display: block;
+      padding:10px 30px;
+   }
+
+   .sub-menu{
+      padding: 0;
+      margin-left: 10px;
+   }
+   >ul{
+      >li{
+         line-height: 50px;
+         padding:0px;
+         cursor: pointer;
+         position:relative;
+         >a:after{
+            content:"";
+            display: inline-block;
+            margin: 6px;
+            border-left: 2px solid; border-bottom: 2px solid;
+            width: 10px; height: 10px;
+            transform: rotate(-45deg);
+            position:absolute;
+            right:30px;
+            top:20px;
+         }
+
+         ul{
+            background-color: #1f2d3d;
+            position:relative;
+            overflow: hidden;
+         }
+      }
+   }
+}
+
+
+.pageContent{
+   display: -webkit-box;
+   -webkit-box-orient: horizontal;
+   .cleft{
+      width:300px;
+
+   }
+   .cright{
+      -webkit-box-flex:1;
+      box-flex:1;
+      min-width:1200px;
+      padding:0px 50px;
+   }
+
+}
+
+
+

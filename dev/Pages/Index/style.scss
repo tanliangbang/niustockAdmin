@@ -1,0 +1,30 @@
+.index{
+    .pbasicTacts{
+        padding-top:50px;
+        width:1060px;
+        margin:auto;
+       >div{
+           width:215px;
+           height:120px;
+           border:1px solid #000;
+           float:left;
+           margin-right:50px;
+           text-align: center;
+           >p:nth-child(1){
+               font-size:35px;
+               margin-top:20px;
+           }
+           >p:nth-child(2){
+               margin-top:10px;
+               font-size:16px;
+           }
+       }
+    }
+    .newProject{
+        margin-top:50px;
+        >p{
+            font-size:18px;
+            margin-bottom:10px;
+        }
+    }
+}

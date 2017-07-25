@@ -1,0 +1,31 @@
+
+.showTables{
+  animation: showTablesAniamtion 2s;
+  -moz-animation: showTablesAniamtion 2s;	/* Firefox */
+  -webkit-animation: showTablesAniamtion 2s;	/* Safari 和 Chrome */
+  -o-animation: showTablesAniamtion 2s;
+}
+
+@keyframes showTablesAniamtion
+{
+  from {height: 0px;}
+  to {height:100%}
+}
+
+@-moz-keyframes showTablesAniamtion /* Firefox */
+{
+  from {height: 0px;}
+  to {height:100%}
+}
+
+@-webkit-keyframes showTablesAniamtion /* Safari 和 Chrome */
+{
+  from {height: 0px;}
+  to {height:100%}
+}
+
+@-o-keyframes showTablesAniamtion /* Opera */
+{
+  from {height: 0px;}
+  to {height:100%}
+}

@@ -1,0 +1,38 @@
+.login{
+    margin-top:250px;
+    text-align: center;
+    .nomalInput{
+        font-size:16px;
+        >input{
+            margin-left:20px;
+            width:300px;
+            height:40px;
+        }
+    }
+    .reError{
+        color:red;
+        font-size:12px;
+    }
+    >div{
+        p{
+            font-size:20px;
+            margin-bottom:40px;
+        }
+
+    }
+    .btn{
+        width:300px;
+        height:40px;
+        text-align: center;
+        line-height: 40px;
+        background:#FF6633;
+        color:#fff;
+        font-size:16px;
+        cursor: pointer;
+        margin-top:30px;
+    }
+    .errorPromit{
+        font-size:12px;
+        color:red;
+    }
+}

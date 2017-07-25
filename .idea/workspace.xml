@@ -1,0 +1,1674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b6b91a8-a2b4-43c1-86dc-c5055a10ae7e" name="默认的" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/Components/systemManage/AddEmployee.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/Components/systemManage/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/Components/vipManage/List.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/Components/vipManage/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/Pages/Project/addProject.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/Pages/SystemManage/Index.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/Pages/SystemManage/RoleManage.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/Pages/SystemManage/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/Pages/VipManage/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/actions/systemManage.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/reducers/systemManage.jsx" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/react_router_node_modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/react-router.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/css/5516ca8e.styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/css/65844144.styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/css/7910c3f4.styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/addImgIcon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/10.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/11.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/12.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/13.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/14.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/15.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/17.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/18.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/19.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/20.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/21.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/22.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/23.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/24.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/25.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/26.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/27.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/28.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/29.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/30.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/31.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/33.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/34.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/35.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/36.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/37.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/38.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/39.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/40.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/41.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/42.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/43.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/44.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/45.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/46.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/47.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/48.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/49.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/50.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/51.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/52.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/53.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/54.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/55.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/56.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/57.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/58.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/59.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/60.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/61.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/62.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/63.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/64.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/65.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/66.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/67.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/68.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/69.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/7.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/70.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/71.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/72.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/73.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/74.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/8.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/arclist/9.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/ck_closebg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/nv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/right1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/sprites.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/timg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/img/userImg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/js/5516ca8e.common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/js/5516ca8e.index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/js/65844144.common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/js/65844144.index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/js/7910c3f4.common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/js/7910c3f4.index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/codemirror/codemirror.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/codemirror/codemirror.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/codemirror/css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/codemirror/javascript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/codemirror/monokai.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/css/amazeui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/js/ajaxfileupload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/js/jQuery.md5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/js/jquery-2.1.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/js/jquery.qqFace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/js/tether.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/anchor/anchor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/attachment.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/attachment.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/attachment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_chm.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_doc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_exe.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_jpg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_mp3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_mv.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_pdf.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_ppt.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_txt.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_xls.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/images/alignicon.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/images/alignicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/images/file-icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/images/file-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/images/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/images/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/images/progress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/images/success.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/attachment/images/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/background/background.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/background/background.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/background/background.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/background/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/background/images/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/charts/chart.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/charts/charts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/charts/charts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/charts/charts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/charts/images/charts0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/charts/images/charts1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/charts/images/charts2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/charts/images/charts3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/charts/images/charts4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/charts/images/charts5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/emotion/emotion.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/emotion/emotion.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/emotion/emotion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/emotion/images/0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/emotion/images/bface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/emotion/images/cface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/emotion/images/fface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/emotion/images/jxface2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/emotion/images/neweditor-tab-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/emotion/images/tface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/emotion/images/wface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/emotion/images/yface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/gmap/gmap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/help/help.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/help/help.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/help/help.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/image/image.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/image/image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/image/image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/image/images/alignicon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/image/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/image/images/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/image/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/image/images/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/image/images/progress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/image/images/success.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/image/images/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/insertframe/insertframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/internal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/link/link.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/map/map.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/map/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/music/music.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/music/music.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/music/music.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/preview/preview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/scrawl/images/addimg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/scrawl/images/brush.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/scrawl/images/delimg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/scrawl/images/delimgH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/scrawl/images/empty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/scrawl/images/emptyH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/scrawl/images/eraser.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/scrawl/images/redo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/scrawl/images/redoH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/scrawl/images/scale.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/scrawl/images/scaleH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/scrawl/images/size.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/scrawl/images/undo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/scrawl/images/undoH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/scrawl/scrawl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/scrawl/scrawl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/scrawl/scrawl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/searchreplace/searchreplace.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/searchreplace/searchreplace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/snapscreen/snapscreen.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/spechars/spechars.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/spechars/spechars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/table/dragicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/table/edittable.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/table/edittable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/table/edittable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/table/edittd.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/table/edittip.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/template/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/template/images/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/template/images/pre0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/template/images/pre1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/template/images/pre2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/template/images/pre3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/template/images/pre4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/template/template.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/template/template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/template/template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/video/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/video/images/center_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/video/images/file-icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/video/images/file-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/video/images/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/video/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/video/images/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/video/images/left_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/video/images/none_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/video/images/progress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/video/images/right_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/video/images/success.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/video/images/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/video/video.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/video/video.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/video/video.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/webapp/webapp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/wordimage/fClipboard_ueditor.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/wordimage/imageUploader.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/wordimage/tangram.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/wordimage/wordimage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/dialogs/wordimage/wordimage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/jsp/config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/jsp/controller.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/jsp/lib/commons-codec-1.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/jsp/lib/commons-fileupload-1.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/jsp/lib/commons-io-2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/jsp/lib/json.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/jsp/lib/ueditor-1.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/en/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/en/images/addimage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/en/images/alldeletebtnhoverskin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/en/images/alldeletebtnupskin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/en/images/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/en/images/button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/en/images/copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/en/images/deletedisable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/en/images/deleteenable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/en/images/listbackground.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/en/images/localimage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/en/images/music.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/en/images/rotateleftdisable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/en/images/rotateleftenable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/en/images/rotaterightdisable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/en/images/rotaterightenable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/en/images/upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/zh-cn/images/copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/zh-cn/images/localimage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/zh-cn/images/music.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/zh-cn/images/upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/lang/zh-cn/zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/css/ueditor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/css/ueditor.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/dialogbase.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/anchor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/arrow_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/arrow_up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/button-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/cancelbutton.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/charts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/cursor_h.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/cursor_h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/cursor_v.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/cursor_v.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/dialog-title-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/filescan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/highlighted.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/icons-all.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/loaderror.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/lock.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/neweditor-tab-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/pagebreak.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/scale.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/sortable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/sparator_v.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/table-cell-align.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/tangram-colorpicker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/toolbar_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/unhighlighted.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/videologo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/word.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/default/images/wordpaste.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/themes/iframe.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/SyntaxHighlighter/shCore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/codemirror/codemirror.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/codemirror/codemirror.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/adapters/mootools-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/adapters/mootools-adapter.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/adapters/prototype-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/adapters/prototype-adapter.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/adapters/standalone-framework.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/adapters/standalone-framework.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/highcharts-more.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/highcharts-more.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/highcharts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/highcharts.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/modules/annotations.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/modules/annotations.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/modules/canvas-tools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/modules/canvas-tools.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/modules/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/modules/data.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/modules/drilldown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/modules/drilldown.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/modules/exporting.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/modules/exporting.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/modules/funnel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/modules/funnel.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/modules/heatmap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/modules/heatmap.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/modules/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/modules/map.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/modules/no-data-to-display.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/modules/no-data-to-display.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/themes/dark-blue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/themes/dark-green.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/themes/gray.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/themes/grid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/highcharts/themes/skies.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/jquery-1.10.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/jquery-1.10.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/jquery-1.10.2.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/snapscreen/UEditorSnapscreen.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/video-js/font/vjs.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/video-js/font/vjs.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/video-js/font/vjs.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/video-js/font/vjs.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/video-js/video-js.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/video-js/video-js.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/video-js/video-js.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/video-js/video.dev.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/video-js/video.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/webuploader/Uploader.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/webuploader/webuploader.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/webuploader/webuploader.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/webuploader/webuploader.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/webuploader/webuploader.flashonly.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/webuploader/webuploader.flashonly.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/webuploader/webuploader.html5only.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/webuploader/webuploader.html5only.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/webuploader/webuploader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/webuploader/webuploader.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/webuploader/webuploader.withoutimage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/webuploader/webuploader.withoutimage.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/zeroclipboard/ZeroClipboard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/zeroclipboard/ZeroClipboard.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/third-party/zeroclipboard/ZeroClipboard.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/ueditor.all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/ueditor.all.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/ueditor.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/ueditor.parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bangbang/libs/plugins/ueditor/ueditor.parse.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/5516ca8e.styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/65844144.styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/7910c3f4.styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/addImgIcon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/10.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/11.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/12.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/13.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/14.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/15.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/17.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/18.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/19.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/20.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/21.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/22.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/23.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/24.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/25.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/26.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/27.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/28.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/29.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/30.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/31.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/33.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/34.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/35.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/36.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/37.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/38.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/39.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/40.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/41.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/42.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/43.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/44.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/45.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/46.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/47.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/48.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/49.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/50.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/51.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/52.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/53.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/54.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/55.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/56.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/57.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/58.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/59.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/60.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/61.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/62.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/63.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/64.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/65.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/66.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/67.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/68.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/69.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/7.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/70.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/71.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/72.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/73.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/74.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/8.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/arclist/9.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/ck_closebg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/nv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/right1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/sprites.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/timg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/userImg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/5516ca8e.common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/5516ca8e.index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/65844144.common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/65844144.index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/7910c3f4.common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/7910c3f4.index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/codemirror/codemirror.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/codemirror/codemirror.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/codemirror/css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/codemirror/javascript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/codemirror/monokai.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/css/amazeui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/js/ajaxfileupload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/js/jQuery.md5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/js/jquery-2.1.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/js/jquery.qqFace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/js/tether.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/anchor/anchor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/attachment.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/attachment.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/attachment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_chm.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_doc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_exe.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_jpg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_mp3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_mv.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_pdf.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_ppt.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_txt.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_xls.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/images/alignicon.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/images/alignicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/images/file-icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/images/file-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/images/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/images/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/images/progress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/images/success.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/attachment/images/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/background/background.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/background/background.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/background/background.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/background/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/background/images/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/charts/chart.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/charts/charts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/charts/charts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/charts/charts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/charts/images/charts0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/charts/images/charts1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/charts/images/charts2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/charts/images/charts3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/charts/images/charts4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/charts/images/charts5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/emotion/emotion.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/emotion/emotion.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/emotion/emotion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/emotion/images/0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/emotion/images/bface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/emotion/images/cface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/emotion/images/fface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/emotion/images/jxface2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/emotion/images/neweditor-tab-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/emotion/images/tface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/emotion/images/wface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/emotion/images/yface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/gmap/gmap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/help/help.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/help/help.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/help/help.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/image/image.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/image/image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/image/image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/image/images/alignicon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/image/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/image/images/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/image/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/image/images/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/image/images/progress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/image/images/success.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/image/images/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/insertframe/insertframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/internal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/link/link.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/map/map.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/map/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/music/music.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/music/music.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/music/music.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/preview/preview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/scrawl/images/addimg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/scrawl/images/brush.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/scrawl/images/delimg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/scrawl/images/delimgH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/scrawl/images/empty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/scrawl/images/emptyH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/scrawl/images/eraser.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/scrawl/images/redo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/scrawl/images/redoH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/scrawl/images/scale.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/scrawl/images/scaleH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/scrawl/images/size.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/scrawl/images/undo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/scrawl/images/undoH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/scrawl/scrawl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/scrawl/scrawl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/scrawl/scrawl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/searchreplace/searchreplace.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/searchreplace/searchreplace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/snapscreen/snapscreen.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/spechars/spechars.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/spechars/spechars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/table/dragicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/table/edittable.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/table/edittable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/table/edittable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/table/edittd.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/table/edittip.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/template/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/template/images/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/template/images/pre0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/template/images/pre1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/template/images/pre2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/template/images/pre3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/template/images/pre4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/template/template.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/template/template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/template/template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/video/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/video/images/center_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/video/images/file-icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/video/images/file-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/video/images/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/video/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/video/images/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/video/images/left_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/video/images/none_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/video/images/progress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/video/images/right_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/video/images/success.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/video/images/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/video/video.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/video/video.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/video/video.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/webapp/webapp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/wordimage/fClipboard_ueditor.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/wordimage/imageUploader.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/wordimage/tangram.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/wordimage/wordimage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/dialogs/wordimage/wordimage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/jsp/config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/jsp/controller.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/jsp/lib/commons-codec-1.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/jsp/lib/commons-fileupload-1.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/jsp/lib/commons-io-2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/jsp/lib/json.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/jsp/lib/ueditor-1.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/en/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/en/images/addimage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/en/images/alldeletebtnhoverskin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/en/images/alldeletebtnupskin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/en/images/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/en/images/button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/en/images/copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/en/images/deletedisable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/en/images/deleteenable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/en/images/listbackground.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/en/images/localimage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/en/images/music.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/en/images/rotateleftdisable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/en/images/rotateleftenable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/en/images/rotaterightdisable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/en/images/rotaterightenable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/en/images/upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/zh-cn/images/copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/zh-cn/images/localimage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/zh-cn/images/music.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/zh-cn/images/upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/lang/zh-cn/zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/css/ueditor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/css/ueditor.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/dialogbase.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/anchor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/arrow_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/arrow_up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/button-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/cancelbutton.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/charts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/cursor_h.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/cursor_h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/cursor_v.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/cursor_v.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/dialog-title-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/filescan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/highlighted.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/icons-all.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/loaderror.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/lock.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/neweditor-tab-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/pagebreak.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/scale.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/sortable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/sparator_v.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/table-cell-align.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/tangram-colorpicker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/toolbar_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/unhighlighted.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/videologo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/word.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/default/images/wordpaste.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/themes/iframe.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/SyntaxHighlighter/shCore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/codemirror/codemirror.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/codemirror/codemirror.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/adapters/mootools-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/adapters/mootools-adapter.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/adapters/prototype-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/adapters/prototype-adapter.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/adapters/standalone-framework.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/adapters/standalone-framework.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/highcharts-more.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/highcharts-more.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/highcharts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/highcharts.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/modules/annotations.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/modules/annotations.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/modules/canvas-tools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/modules/canvas-tools.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/modules/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/modules/data.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/modules/drilldown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/modules/drilldown.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/modules/exporting.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/modules/exporting.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/modules/funnel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/modules/funnel.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/modules/heatmap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/modules/heatmap.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/modules/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/modules/map.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/modules/no-data-to-display.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/modules/no-data-to-display.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/themes/dark-blue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/themes/dark-green.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/themes/gray.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/themes/grid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/highcharts/themes/skies.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/jquery-1.10.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/jquery-1.10.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/jquery-1.10.2.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/snapscreen/UEditorSnapscreen.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/video-js/font/vjs.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/video-js/font/vjs.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/video-js/font/vjs.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/video-js/font/vjs.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/video-js/video-js.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/video-js/video-js.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/video-js/video-js.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/video-js/video.dev.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/video-js/video.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/webuploader/Uploader.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/webuploader/webuploader.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/webuploader/webuploader.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/webuploader/webuploader.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/webuploader/webuploader.flashonly.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/webuploader/webuploader.flashonly.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/webuploader/webuploader.html5only.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/webuploader/webuploader.html5only.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/webuploader/webuploader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/webuploader/webuploader.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/webuploader/webuploader.withoutimage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/webuploader/webuploader.withoutimage.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/zeroclipboard/ZeroClipboard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/zeroclipboard/ZeroClipboard.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/third-party/zeroclipboard/ZeroClipboard.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/ueditor.all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/ueditor.all.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/ueditor.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/ueditor.parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/plugins/ueditor/ueditor.parse.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Components/Comment/comment.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Components/Comment/commentList.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Components/Comment/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Components/community/communityList.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Components/community/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Components/list/htmlRes.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Components/list/jsRes.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Components/list/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Components/right/right_nomal.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Components/right/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Components/user/login.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Components/user/regist.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Community/Community.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Community/PublishArticle.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Community/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/Common/LeftMenu.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/Forms.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/Htmls.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/HtmlsBtn.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/HtmlsTable.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/Icons.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/Language.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/Plus.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/forms/CheckboxDom.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/forms/InputDom.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/forms/RadioDom.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/forms/SelectDom.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/forms/SwicthDom.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/plus/DateDom.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/plus/LoadDom.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/plus/ModalShowDom.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/plus/PageListDom.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/plus/PopoverDom.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/plus/PopupDom.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/plus/SliderDom.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/plus/TabDom.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/plus/TreeDom.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/plus/UploadDom.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/plus/ValidateDom.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Components/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Conf/Conf.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Help/Index.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Help/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/ReduxDom/ReduxDom.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/ReduxDom/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Start/Index.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/Start/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/User/changeUser.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/User/loginAndRegist.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/page1/Index.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/res/Detail.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/Pages/res/Res.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/actions/comment.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/actions/community.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/actions/res.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/actions/right.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/actions/user.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/constants/actionConstant.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/reducers/comment.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/reducers/community.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/reducers/index.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/reducers/res.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/reducers/right.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/reducers/user.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/npm-debug.log.2499003253" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文本文档 (2).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文本文档.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/BUI/Mask.jsx" afterPath="$PROJECT_DIR$/dev/BUI/Mask.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/BUI/Tabs.jsx" afterPath="$PROJECT_DIR$/dev/BUI/Tabs.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/Components/form/form.jsx" afterPath="$PROJECT_DIR$/dev/Components/form/form.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/Components/form/style.scss" afterPath="$PROJECT_DIR$/dev/Components/form/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/Config/Config.js" afterPath="$PROJECT_DIR$/dev/Config/Config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/Pages/App.jsx" afterPath="$PROJECT_DIR$/dev/Pages/App.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/Pages/Common/Footer.jsx" afterPath="$PROJECT_DIR$/dev/Pages/Common/Footer.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/Pages/Common/Menu.jsx" afterPath="$PROJECT_DIR$/dev/Pages/Common/Menu.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/Pages/Common/style.scss" afterPath="$PROJECT_DIR$/dev/Pages/Common/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/Pages/Index/Index.jsx" afterPath="$PROJECT_DIR$/dev/Pages/Index/Index.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/Pages/User/style.scss" afterPath="$PROJECT_DIR$/dev/Pages/User/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/Routers.jsx" afterPath="$PROJECT_DIR$/dev/Routers.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/Tool.jsx" afterPath="$PROJECT_DIR$/dev/Tool.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/index.html" afterPath="$PROJECT_DIR$/dev/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/style/style.scss" afterPath="$PROJECT_DIR$/dev/style/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/utils/fetchData.jsx" afterPath="$PROJECT_DIR$/dev/utils/fetchData.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.dev.js" afterPath="$PROJECT_DIR$/webpack.config.dev.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.old.js" afterPath="$PROJECT_DIR$/webpack.config.old.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.prod.js" afterPath="$PROJECT_DIR$/webpack.config.prod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/BUI/style.css" afterPath="$PROJECT_DIR$/dev/BUI/style.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/Pages/Index/style.css" afterPath="$PROJECT_DIR$/dev/Pages/Index/style.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/Pages/User/register.jsx" afterPath="$PROJECT_DIR$/dev/Pages/VipManage/vipList.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/Pages/User/userInfo.jsx" afterPath="$PROJECT_DIR$/dev/Pages/User/Login.jsx" />
+    </list>
+    <ignored path="niustockBondManage.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="niustockBondManage" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dev/Pages/Components/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6319613">
+              <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myAnimation.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev/style/myAnimation.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.453125">
+              <caret line="1" column="11" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeftMenu.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev/Pages/Components/Common/LeftMenu.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="47" column="71" selection-start-line="47" selection-start-column="71" selection-end-line="47" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev/style/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.097826">
+              <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dev/utils/fetchData.jsx" />
+        <option value="$PROJECT_DIR$/dev/Pages/Project/ProjectDetail.jsx" />
+        <option value="$PROJECT_DIR$/dev/Pages/Index/Index.jsx" />
+        <option value="$PROJECT_DIR$/dev/Pages/Index/style.scss" />
+        <option value="$PROJECT_DIR$/dev/Pages/Components/style.css" />
+        <option value="$PROJECT_DIR$/dev/Pages/SystemManage/style.scss" />
+        <option value="$PROJECT_DIR$/dev/actions/common.jsx" />
+        <option value="$PROJECT_DIR$/dev/BUI/style.scss" />
+        <option value="$PROJECT_DIR$/dev/BUI/Mask.jsx" />
+        <option value="$PROJECT_DIR$/dev/reducers/common.jsx" />
+        <option value="$PROJECT_DIR$/dev/Components/systemManage/style.scss" />
+        <option value="$PROJECT_DIR$/dev/Pages/SystemManage/EmployeeList.jsx" />
+        <option value="$PROJECT_DIR$/dev/constants/actionConstant.jsx" />
+        <option value="$PROJECT_DIR$/dev/Pages/Project/Index.jsx" />
+        <option value="$PROJECT_DIR$/dev/reducers/systemManage.jsx" />
+        <option value="$PROJECT_DIR$/dev/Pages/SystemManage/Index.jsx" />
+        <option value="$PROJECT_DIR$/dev/actions/systemManage.jsx" />
+        <option value="$PROJECT_DIR$/dev/Components/systemManage/EmployeeList.jsx" />
+        <option value="$PROJECT_DIR$/dev/Pages/User/style.scss" />
+        <option value="$PROJECT_DIR$/dev/Pages/Common/style.scss" />
+        <option value="$PROJECT_DIR$/dev/Pages/App.jsx" />
+        <option value="$PROJECT_DIR$/dev/Pages/Components/Index.jsx" />
+        <option value="$PROJECT_DIR$/dev/reducers/user.jsx" />
+        <option value="$PROJECT_DIR$/dev/Pages/Common/Menu.jsx" />
+        <option value="$PROJECT_DIR$/dev/actions/user.jsx" />
+        <option value="$PROJECT_DIR$/dev/Pages/User/Login.jsx" />
+        <option value="$PROJECT_DIR$/dev/Components/product/list.jsx" />
+        <option value="$PROJECT_DIR$/dev/Pages/SystemManage/RoleManage.jsx" />
+        <option value="$PROJECT_DIR$/build/libs/js/ajaxfileupload.js" />
+        <option value="$PROJECT_DIR$/dev/Pages/VipManage/VipIndex.jsx" />
+        <option value="$PROJECT_DIR$/dev/Pages/VipManage/style.scss" />
+        <option value="$PROJECT_DIR$/dev/Components/form/style.scss" />
+        <option value="$PROJECT_DIR$/dev/Components/systemManage/AddEmployee.jsx" />
+        <option value="$PROJECT_DIR$/dev/Routers.jsx" />
+        <option value="$PROJECT_DIR$/webpack.config.old.js" />
+        <option value="$PROJECT_DIR$/webpack.config.dev.js" />
+        <option value="$PROJECT_DIR$/webpack.config.prod.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/dev/actions/product.jsx" />
+        <option value="$PROJECT_DIR$/dev/Pages/Project/style.scss" />
+        <option value="$PROJECT_DIR$/dev/Pages/Project/AddProject.jsx" />
+        <option value="$PROJECT_DIR$/dev/index.html" />
+        <option value="$PROJECT_DIR$/dev/Components/form/form.jsx" />
+        <option value="$PROJECT_DIR$/dev/Tool.jsx" />
+        <option value="$PROJECT_DIR$/admin/libs/js/ajaxfileupload.js" />
+        <option value="$PROJECT_DIR$/dev/Config/Config.js" />
+        <option value="$PROJECT_DIR$/admin/index.html" />
+        <option value="$PROJECT_DIR$/dev/style/style.scss" />
+        <option value="$PROJECT_DIR$/dev/Pages/Components/Common/LeftMenu.jsx" />
+        <option value="$PROJECT_DIR$/dev/style/myAnimation.scss" />
+        <option value="$PROJECT_DIR$/dev/Pages/Components/style.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="niustockBondManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="niustockBondManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="niustockBondManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="niustockBondManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="niustockBondManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="niustockBondManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="niustockBondManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="niustockBondManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="niustockBondManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="niustockBondManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="niustockBondManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="JavaScriptLanguageLevel" value="JSX" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Apache\htdocs\niustockBondManage\admin\libs\plugins" />
+      <recent name="E:\Apache\htdocs\niustockBondManage\build\libs\plugins" />
+      <recent name="E:\Apache\htdocs\niustockBondManage\dev\Components\systemManage" />
+      <recent name="E:\Apache\htdocs\niustockBondManage\dev\Components" />
+      <recent name="E:\Apache\htdocs\niustockBondManage\dev\Pages\SystemManage" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Apache\htdocs\niustockBondManage\admin\libs" />
+      <recent name="E:\Apache\htdocs\niustockBondManage\dev\Components\systemManage" />
+      <recent name="E:\Apache\htdocs\niustockBondManage\dev\Pages\Common" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b6b91a8-a2b4-43c1-86dc-c5055a10ae7e" name="默认的" comment="" />
+      <created>1494302666631</created>
+      <option name="number" value="Default" />
+      <updated>1494302666631</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18697916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.74234426" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dev/BUI/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10187354">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/BUI/Mask.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Components/systemManage/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.882904">
+          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/reducers/common.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/constants/actionConstant.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/reducers/systemManage.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.031590413">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Components/systemManage/EmployeeList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6318083">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Pages/SystemManage/Index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46296296">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/actions/systemManage.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="89" column="26" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Pages/User/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.2065217">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/utils/fetchData.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62091506">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="30" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Pages/Components/Index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Pages/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Pages/Common/Menu.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/reducers/user.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/reducers/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28431374">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Components/form/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Pages/VipManage/VipIndex.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3583878">
+          <caret line="45" column="43" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Pages/VipManage/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Pages/Project/Index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="237" column="37" selection-start-line="237" selection-start-column="37" selection-end-line="237" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/actions/user.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Routers.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start-dev-hot.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.old.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6407658">
+          <caret line="76" column="51" selection-start-line="76" selection-start-column="50" selection-end-line="76" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start-dev-old.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start-build.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="89" selection-start-line="0" selection-start-column="71" selection-end-line="0" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17864923">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.prod.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.0">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/libs/codemirror/monokai.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.5">
+          <caret line="18" column="49" selection-start-line="2" selection-start-column="2" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/libs/js/jQuery.md5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Components/product/list.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36819172">
+          <caret line="45" column="47" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Components/systemManage/AddEmployee.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.72657955">
+          <caret line="43" column="11" selection-start-line="33" selection-start-column="7" selection-end-line="43" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Pages/SystemManage/RoleManage.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74727666">
+          <caret line="37" column="11" selection-start-line="28" selection-start-column="7" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Pages/User/Login.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="10" selection-start-line="36" selection-start-column="7" selection-end-line="49" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1388888">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Pages/Project/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.0625">
+          <caret line="216" column="21" selection-start-line="216" selection-start-column="21" selection-end-line="216" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/actions/product.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/actions/common.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5686275">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Pages/Project/AddProject.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Components/form/form.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Tool.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="251" column="25" selection-start-line="251" selection-start-column="25" selection-end-line="251" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Config/Config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="94" selection-start-line="0" selection-start-column="94" selection-end-line="0" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/libs/js/ajaxfileupload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="161" column="0" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Pages/Common/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.265625">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/style/myAnimation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.453125">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Pages/Components/Common/LeftMenu.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="71" selection-start-line="47" selection-start-column="71" selection-end-line="47" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/style/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.097826">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/Pages/Components/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6319613">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
